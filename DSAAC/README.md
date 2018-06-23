@@ -1,3 +1,3 @@
 # Data Structures and Algorithms Analysis in C
-second edition
-Mark Allen Weiss
+second edition  
+Mark Allen Weiss  
