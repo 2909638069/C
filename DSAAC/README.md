@@ -1,6 +1,5 @@
-# Data Structures and Algorithms Analysis in C
-second edition  
-Mark Allen Weiss  
+# Data Structures and Algorithms Analysis in C (Second Edition) 
+http://users.cis.fiu.edu/~weiss
 
 ## Contents
 Ch3 Lists, Stacks, and Queues  
